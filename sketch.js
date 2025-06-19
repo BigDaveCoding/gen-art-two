@@ -28,9 +28,6 @@ function startLightShow() {
   triangle(canvasW, 0, canvasW / 2, canvasH / 2, canvasW, canvasH);
 
   strokeWeight(1);
-  a = 0;
-  b = 0;
-  c = 0;
 }
 
 function drawLines(amount = 10) {
